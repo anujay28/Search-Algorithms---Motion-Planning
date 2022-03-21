@@ -1,4 +1,4 @@
-# Search-Algorithms---Motion-Planning
+# Search Algorithms---Motion Planning
 # Implementation of Basic Search
 BFS, DFS, A*
 # Implementation of Sampling based Search
