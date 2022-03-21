@@ -1,4 +1,5 @@
 # Search-Algorithms---Motion-Planning
- Implementation of BFS, DFS, A*
- Implementation of PRM (Uniform, Random, Gaussian, Bridge)
- Implementation of RRT and RRT*
+# Implementation of Basic Search
+BFS, DFS, A*
+# Implementation of Sampling based Search
+PRM (Uniform, Random, Gaussian, Bridge), RRT and RRT*
